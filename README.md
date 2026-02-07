@@ -14,24 +14,16 @@ Bank Marketing Dataset (`bank.csv`)
 - Scikit-learn
 - Jupyter Notebook
 
-## Steps Performed
+## Work Performed
 - Data loading and exploration
 - Data preprocessing and encoding
 - Exploratory data analysis
-- Model building for prediction
-- Evaluation of model performance
+- Model building and evaluation
 
-## Visualizations
+## Output Demonstration
+A screen recording demonstrating the analysis, visualizations, and results is included in this repository.
 
-### Customer Subscription Distribution
-![Plot 1](plot1.png)
-
-### Age Distribution of Customers
-![Plot 2](plot2.png)
-
-### Subscription by Job Type
-![Plot 3](plot3.png)
+📹 File: `Task03_Bank_Marketing_Output.mp4`
 
 ## Conclusion
-This task helped me understand how machine learning models can be applied to real-world banking data to predict customer behavior and support decision-making.
-
+This task helped me understand how data analysis and machine learning models can be applied to real-world banking datasets to predict customer behavior.
